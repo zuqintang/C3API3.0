@@ -1,0 +1,6 @@
+.classpath
+.project
+.settings
+WEB-INF/*
+src/*.properties
+!WEB-INF/web.xml
